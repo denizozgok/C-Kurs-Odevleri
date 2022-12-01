@@ -1,6 +1,5 @@
 Aşağıdaki bildirimlerden geçersiz olanları işaretleyiniz:
 
-
 int main()
 {
 	signed x1;
